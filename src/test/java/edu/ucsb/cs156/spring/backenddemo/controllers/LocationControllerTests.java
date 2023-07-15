@@ -11,7 +11,6 @@ import org.springframework.boot.test.mock.mockito.MockBean;
 import org.springframework.test.web.servlet.MockMvc;
 import org.springframework.test.web.servlet.MvcResult;
 
-import com.fasterxml.jackson.databind.ObjectMapper;
 import edu.ucsb.cs156.spring.backenddemo.services.LocationQueryService;
 
 import static org.springframework.test.web.servlet.request.MockMvcRequestBuilders.*;
@@ -21,7 +20,6 @@ import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.
 @WebMvcTest(value = LocationController.class)
 public class LocationControllerTests {
 
-    private ObjectMapper mapper = new ObjectMapper();
     @Autowired
     private MockMvc mockMvc;
     @MockBean
