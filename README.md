@@ -14,7 +14,7 @@ Lab instructions: <https://ucsb-cs156.github.io/m23/lab/team01/>
 |           |           | `ZipCodeQueryService`       | `ZipCodeController`       |
 ```
 
-Repo: https://ucsb-cs156-m23/m23-9am-3-team01
+Repo: https://github.com/ucsb-cs156-m23/team01-m23-9am-3
 
 On Dokku: http://team01.dokku-03.cs.ucsb.edu/
 
