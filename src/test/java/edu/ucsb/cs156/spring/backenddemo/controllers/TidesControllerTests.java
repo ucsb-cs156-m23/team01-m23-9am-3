@@ -45,7 +45,7 @@ public class TidesControllerTests {
         String begin_date = "20230815";
         String end_date = "20230816";
         String station = "9411340";
-        when(mockTidesQueryService.getJSON(eq(station),eq(begin_date),eq(end_date))).thenReturn(fakeJsonResult);
+        when(mockTidesQueryService.getJSON(eq(begin_date),eq(end_date),eq(station))).thenReturn(fakeJsonResult);
 
         String url = String.format("/api/tides/get?begin_date=%s&end_date=%s&station=%s",begin_date,end_date,station);
 
