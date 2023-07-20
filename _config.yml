@@ -23,4 +23,4 @@ repo_name: "TBD"
 repo: ucsb-cs156-m23/team01-m23-9am-3
 owner: ucsb-cs156-m23
 repo_name: team01-m23-9am-3
-pull_requests: [{"author":{"id":"MDQ6VXNlcjcyODI4OTQ1","is_bot":false,"login":"LolExile","name":"Johnny Wang "},"headRefName":"Johnny-ZipCode-Controller","number":21,"title":"Add ZipcCode Controller","url":"https://github.com/ucsb-cs156-m23/team01-m23-9am-3/pull/21"},{"author":{"id":"MDQ6VXNlcjcyODI4OTQ1","is_bot":false,"login":"LolExile","name":"Johnny Wang "},"headRefName":"Johnny-ZipCode","number":20,"title":"Add ZipCode Service to main Branch","url":"https://github.com/ucsb-cs156-m23/team01-m23-9am-3/pull/20"}]
+pull_requests: []
